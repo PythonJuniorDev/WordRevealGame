@@ -1,0 +1,16 @@
+# Logs
+*.log
+
+# Environment variables
+*.env
+
+# Build results
+bin/
+obj/
+out/
+
+# VS Code settings
+.vscode/
+
+# Test results
+TestResults/

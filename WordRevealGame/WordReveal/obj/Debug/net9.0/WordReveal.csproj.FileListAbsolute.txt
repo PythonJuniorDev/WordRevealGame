@@ -1,0 +1,14 @@
+C:\Users\CGStudent\WordRevealGame\WordReveal\bin\Debug\net9.0\WordReveal.exe
+C:\Users\CGStudent\WordRevealGame\WordReveal\bin\Debug\net9.0\WordReveal.deps.json
+C:\Users\CGStudent\WordRevealGame\WordReveal\bin\Debug\net9.0\WordReveal.runtimeconfig.json
+C:\Users\CGStudent\WordRevealGame\WordReveal\bin\Debug\net9.0\WordReveal.dll
+C:\Users\CGStudent\WordRevealGame\WordReveal\bin\Debug\net9.0\WordReveal.pdb
+C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\WordReveal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\WordReveal.AssemblyInfoInputs.cache
+C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\WordReveal.AssemblyInfo.cs
+C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\WordReveal.csproj.CoreCompileInputs.cache
+C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\WordReveal.dll
+C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\refint\WordReveal.dll
+C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\WordReveal.pdb
+C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\WordReveal.genruntimeconfig.cache
+C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\ref\WordReveal.dll
