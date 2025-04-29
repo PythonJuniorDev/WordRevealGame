@@ -12,3 +12,4 @@ C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\refint\WordReveal.
 C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\WordReveal.pdb
 C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\WordReveal.genruntimeconfig.cache
 C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\ref\WordReveal.dll
+C:\Users\CGStudent\WordRevealGame\WordReveal\obj\Debug\net9.0\WordReveal.sourcelink.json
